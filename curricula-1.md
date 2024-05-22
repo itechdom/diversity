@@ -35,59 +35,54 @@ To create a curriculum that emphasizes understanding the fundamentals of each fi
 
 ### Examples:
 
+##  Mathematics to Physics and Engineering
+### Pathway Courses:
+* Advanced Calculus and Differential Equations
+* Classical Mechanics and Quantum Physics
+* Engineering Principles and Design
+* Experimentation Focus:
 
-1. Mathematics to Physics and Engineering
+## Research Projects: Applied mathematics in engineering problems.
+* Simulation Labs: Using software to model physical systems.
+* Biology to Biotechnology and Environmental Science
+###Pathway Courses:
+* Molecular Biology and Genetics
+* Biotechnology Applications
+* Environmental Science and Sustainability
+## Experimentation Focus:
+* Genetics Labs: DNA sequencing and genetic modification.
+### Field Research: 
+Ecosystem analysis and environmental impact studies.
+
+
+### Computer Science to Artificial Intelligence and Data Science
 Pathway Courses:
+* Machine Learning and AI Fundamentals
+* Big Data Analytics
+* Human-Computer Interaction
 
-Advanced Calculus and Differential Equations
-Classical Mechanics and Quantum Physics
-Engineering Principles and Design
-Experimentation Focus:
+### Experimentation Focus:
+* AI Projects: Developing and testing AI models.
+* Data Analysis Projects: Real-world data mining and analysis tasks.
+* Discovery and Innovation Curriculum
+* Knowledge Graph Exploration
 
-Research Projects: Applied mathematics in engineering problems.
-Simulation Labs: Using software to model physical systems.
-2. Biology to Biotechnology and Environmental Science
-Pathway Courses:
-
-Molecular Biology and Genetics
-Biotechnology Applications
-Environmental Science and Sustainability
-Experimentation Focus:
-
-Genetics Labs: DNA sequencing and genetic modification.
-Field Research: Ecosystem analysis and environmental impact studies.
-3. Computer Science to Artificial Intelligence and Data Science
-Pathway Courses:
-
-Machine Learning and AI Fundamentals
-Big Data Analytics
-Human-Computer Interaction
-Experimentation Focus:
-
-AI Projects: Developing and testing AI models.
-Data Analysis Projects: Real-world data mining and analysis tasks.
-Discovery and Innovation Curriculum
-Knowledge Graph Exploration
-Core Concept:
-
+### Core Concept:
 Students and educators use KFlow to explore and visualize connections between different fields of knowledge. This tool allows for discovering new interdisciplinary fields and fostering innovation.
 Practical Activities:
 
-Knowledge Mapping Projects: Students create and explore maps of their learning journeys.
-Interdisciplinary Workshops: Collaborative sessions to identify and investigate new research areas.
-Innovation Labs: Spaces where students experiment with combining knowledge from different fields to solve complex problems.
-Experimental Learning Modules
-Examples:
-
-Scientific Inquiry: Projects based on the scientific method, from hypothesis to experimentation and conclusion.
-Creative Design: Combining arts and technology to create innovative solutions.
-Social Impact Projects: Applying interdisciplinary knowledge to address societal challenges.
-Capstone Projects
-Focus:
-
+* Knowledge Mapping Projects: Students create and explore maps of their learning journeys.
+* Interdisciplinary Workshops: Collaborative sessions to identify and investigate new research areas.
+* Innovation Labs: Spaces where students experiment with combining knowledge from different fields to solve complex problems.
+* Experimental Learning Modules
+### Examples:
+* Scientific Inquiry: Projects based on the scientific method, from hypothesis to experimentation and conclusion.
+* Creative Design: Combining arts and technology to create innovative solutions.
+* Social Impact Projects: Applying interdisciplinary knowledge to address societal challenges.
+* Capstone Projects
+### Focus:
 Students undertake comprehensive projects that integrate multiple disciplines, demonstrating their mastery of fundamentals and their ability to innovate.
 Examples:
-
 Sustainable Energy Solutions: Combining engineering, environmental science, and economics.
 Smart Healthcare Systems: Integrating biology, computer science, and data analytics.
 Cultural Heritage Preservation: Merging history, technology, and social sciences.
